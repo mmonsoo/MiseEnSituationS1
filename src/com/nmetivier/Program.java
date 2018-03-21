@@ -1,6 +1,7 @@
 package com.nmetivier;
 
 import java.util.Scanner;
+//
 
 /**
  * Première classe du programme. 
